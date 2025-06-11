@@ -1,0 +1,39 @@
+
+@font-face {
+    font-family: 'HWT Artz';
+    src:  url('/assets/fonts/HWTArtz.woff2') format('woff2'),
+          url('/assets/fonts/HWTArtz.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Coranto 2';
+    src:  url('/assets/fonts/Coranto2-Regular.woff2') format('woff2'),
+          url('/assets/fonts/Coranto2-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src:url('/assets/fonts/Open_Sans/OpenSans-Regular.ttf');
+}
+
+
+
+.w-100{
+    height: 245px;	
+    width: 302px !important;
+}
+
+
+.carousel-indicators li {
+    box-sizing: border-box;	
+    height: 12.67px;	
+    width: 12.63px;	
+    border: 2px solid #FFFFFF;
+    position: center;
+    border-radius: 100%;
+    margin-left: 18px;
+    background-color: transparent;
+}
+
+
+
